@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+git add Proyecto_DA.csv
+git commit -m "Agregar Proyecto_DA.csv"
+git push
 
 df = pd.read_csv('Proyecto_DA')
 # Calcular el rango intercuartílico (IQR)
